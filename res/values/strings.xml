@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">SIM Registration Service</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text">text</string>
+    <string name="registered_client">Registered client</string>
+    <string name="unregistered_client">Unregistered client</string>  
+</resources>
